@@ -16,5 +16,8 @@ Used this link as a reference to set up the front end: [https://daveceddia.com/t
 ![sketch of advanced search](/imgs/day0/Day0-1.png)
 #### Sketch of potential models
 ![Models](/imgs/day0/Day0-2.png)
+#### Sketch of potential splash/landing
+![Models](/imgs/day0/Day0-3.png)
+
 
 **Link to work:** [Repo link](https://github.com/Beki-G/all-my-shiki)
