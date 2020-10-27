@@ -1,30 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Day 0: October 26, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+![rocket take off](https://media.giphy.com/media/tXLpxypfSXvUc/giphy.gif)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Simple website sketches and initial project set up.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Starting from scratch on a old project that I completed at the beginning of a course I took. I cringe at the how it looks and operates, it relies on old Javascript and HTML. Here are some of the sketches for the site. I decided to work with the MERN stack and use Tailwind as the css framework. It took a bit to figure out the scripts. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+Used this link as a reference to set up the front end: [https://daveceddia.com/tailwind-create-react-app/](https://daveceddia.com/tailwind-create-react-app/)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+<br/>
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+#### Sketch of advanced search
+![sketch of advanced search](/imgs/day0/Day0-1.png)
+#### Sketch of potential models
+![Models](/imgs/day0/Day0-2.png)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Repo link](https://github.com/Beki-G/all-my-shiki)
