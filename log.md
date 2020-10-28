@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+
 ## Day 0: October 26, 2020
 
 ![rocket take off](https://media.giphy.com/media/tXLpxypfSXvUc/giphy.gif)
@@ -21,3 +22,16 @@ Used this link as a reference to set up the front end: [https://daveceddia.com/t
 
 
 **Link to work:** [Repo link](https://github.com/Beki-G/all-my-shiki)
+
+
+
+<hr/>
+<br />
+
+## Day 1: October 27, 2020
+
+**Today's Progress**: Worked on the Models and sketches a bit more. These models might change again as I build the back end to make the relationships work. Probs will need to gather a large amt of data from in game (or at least a sizable sample to build the back end). Some of that information is already online. And while I'm not found of spiders it led me down a rabbit hole on web crawling. Might turn into a sideroute worth checking out. 
+
+![](https://media.giphy.com/media/zpjpvAGOM36bm/giphy.gif)
+
+**Link to work:** [Repo](https://github.com/Beki-G/all-my-shiki)
