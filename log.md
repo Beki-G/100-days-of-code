@@ -35,3 +35,25 @@ Used this link as a reference to set up the front end: [https://daveceddia.com/t
 ![](https://media.giphy.com/media/zpjpvAGOM36bm/giphy.gif)
 
 **Link to work:** [Repo](https://github.com/Beki-G/all-my-shiki)
+
+<hr/>
+<br />
+
+## Day 2: October 29, 2020
+
+**Today's Progress**: Felt sick yesterday, but was back at it today.
+![](/imgs/day2/day2.gif) <br />
+ Made significant some progress on the landing page. Here's what I accomplished:
+* Made Hero Section to go on the home page
+* Add a dynamic dropdown that uses API to make the options, Used useEffect & useState;
+* Wrote a script to import data into database. I used a chrome extention to export data from google sheets to a JSON/JS file and wrote the script to import that large file. 
+* Learned about SVG and wrote a hero section component (was gonna use this for the Splash hero but decided not to)
+
+#### Current Homepage
+![current homepage progress](/imgs/day2/Day2-1.png)
+
+**Thoughts**: I would like to learn more about SVG there a lot more to it and I could see my self incorporating it more in the future. 
+
+
+
+**Link to work:** [Repo](https://github.com/Beki-G/all-my-shiki)
