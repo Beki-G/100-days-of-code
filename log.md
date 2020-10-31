@@ -40,8 +40,7 @@ Used this link as a reference to set up the front end: [https://daveceddia.com/t
 <br />
 
 ## Day 2: October 29, 2020
-
-**Today's Progress**: Felt sick yesterday, but was back at it today.
+**Today's Progress**: Felt sick yesterday, but was back at it today.<br />
 ![](/imgs/day2/day2.gif) <br />
  Made significant some progress on the landing page. Here's what I accomplished:
 * Made Hero Section to go on the home page
@@ -55,5 +54,24 @@ Used this link as a reference to set up the front end: [https://daveceddia.com/t
 **Thoughts**: I would like to learn more about SVG there a lot more to it and I could see my self incorporating it more in the future. 
 
 
+
+**Link to work:** [Repo](https://github.com/Beki-G/all-my-shiki)
+
+<hr/>
+<br />
+
+## Day 3: October 30, 2020
+
+**Today's Progress**: Powered thorough another day :smile: <br />
+
+There was another good chunk that I had to read through/try to get some of the following to work:
+
+* Add/modify routes & scripts to arrange data in DB.
+* Add conditional rendering of a component
+
+**Thoughts**: Conditional rendering is a little tricky once you want to change the data in it. Had to set a state on a parent and then send the data down to the component. Originally I had the data for the tags as a dump straight into MongoDB, then I realized that the casing on names had to be changed. Wrote the script to change casing. 
+
+#### Current Homepage
+![current homepage progress](/imgs/day3/Day3-1.png)
 
 **Link to work:** [Repo](https://github.com/Beki-G/all-my-shiki)
