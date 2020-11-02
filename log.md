@@ -75,3 +75,42 @@ There was another good chunk that I had to read through/try to get some of the f
 ![current homepage progress](/imgs/day3/Day3-1.png)
 
 **Link to work:** [Repo](https://github.com/Beki-G/all-my-shiki)
+
+## Day 4: October 31, 2020
+
+**Today's Progress**: 
+
+* Add another coniditional component to the bottom with charcter traits.
+* Researched and read docs on Auth0 for implementation 
+
+**Thoughts**: I want to add more functionality based of user profile so I definitely need the Oauth for user personalization. 
+
+#### Current Homepage
+![current homepage progress](/imgs/day4/Day4-1.png)
+
+**Link to work:** [Repo](https://github.com/Beki-G/all-my-shiki)
+
+## Day 5: November 1, 2020
+
+**Today's Progress**: userContext is hard to wrap my head around. I had to read a lot and look at several examples to know what I was even doing. Auth0 itself wasn't hard to implement but storing that data into the useContext was where I was tripping. Turns out that I had the right method but was missing the condition at the end of useEffect to change the state of the new Profile being stored in the useContext. Currently Auth0 is used for logging in and the rest of the user profile will be stored into the DB. 
+
+
+````
+  useEffect(() => {
+    fetchUserData();
+  }, [user]);
+````
+
+the **[user]** at the end is a state deconstructed from the Auth0 component, with out it useEffect only runs once at the beginning. Now with the state in the last parameter useEffect will run every time the state of user changes. Eventually fetchUserData will retrieve the UserProfile from the DB as well and both the ID from the Auth0 and UserProfile will have a single home while the user is on the site. 
+
+
+* Implement Auth0 for user login
+* Add useContext to store user state from Auth0
+
+**Thoughts**: I really wanted users to be able to login through google or Discord as most of the player database has either/or. 
+<br />
+### Conditional render of login/logout
+![current homepage progress](/imgs/day5/Day5-1.png)
+![current homepage progress](/imgs/day5/Day5-2.png)
+
+**Link to work:** [Repo](https://github.com/Beki-G/all-my-shiki)
