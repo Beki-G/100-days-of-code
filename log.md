@@ -114,3 +114,19 @@ the **[user]** at the end is a state deconstructed from the Auth0 component, wit
 ![current homepage progress](/imgs/day5/Day5-2.png)
 
 **Link to work:** [Repo](https://github.com/Beki-G/all-my-shiki)
+<hr/>
+<br />
+
+## Day 6: November 2, 2020
+
+**Today's Progress**: Hectic day for learning :smile: <br />
+
+Made progress on refining useContext and adding to favorites. 
+
+
+**Thoughts**: I'm really tired today so I'm going to just add the gif to show my front end progress. 
+
+#### Current Homepage
+![current homepage progress](/imgs/day6/Day6-1.gif)
+
+**Link to work:** [Repo](https://github.com/Beki-G/all-my-shiki)
